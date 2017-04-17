@@ -1,0 +1,388 @@
+@import url("reset.css");
+.w1210 {
+  width: 1210px;
+  margin: 0 auto;
+}
+.header {
+  width: 1210;
+  height: 68px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+}
+.header .header-left {
+  width: 500px;
+  height: 68px;
+  background: none;
+  float: left;
+}
+.header .header-left ul li {
+  float: left;
+  line-height: 68px;
+  padding-left: 6px;
+  font-size: 13px;
+}
+.header .header-center {
+  width: 216px;
+  height: 68px;
+  background: none;
+  float: left;
+}
+.header .header-right {
+  width: 494px;
+  height: 68px;
+  background: none;
+  float: left;
+}
+.header .header-right p {
+  float: right;
+  line-height: 68px;
+  padding-right: 7px;
+}
+.nav {
+  height: 51px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+}
+.nav li {
+  float: left;
+  font-size: 16px;
+  line-height: 51px;
+  padding-left: 70px;
+  text-align: center;
+}
+.nav .back {
+  width: 100px;
+  height: 51px;
+  background-color: #0254aa;
+  display: block;
+}
+.main1 {
+  width: 100%;
+  height: 601px;
+  background: none;
+}
+.main2 {
+  height: 110px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+  float: left;
+}
+.main2 .main2-left {
+  width: 632px;
+  height: 110px;
+  background: none;
+  float: left;
+}
+.main2 .main2-center {
+  width: 248px;
+  height: 110px;
+  background: none;
+  float: left;
+}
+.main2 .main2-center p {
+  padding-left: 9px;
+}
+.main2 .main2-center form {
+  float: left;
+  width: 400px;
+  height: 50px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.main2 .main2-center .backg {
+  background: url(../img/168.jpg) no-repeat left center;
+  padding-left: 31px;
+}
+.main2 .main2-center .txt {
+  float: left;
+  width: 283px;
+  height: 39px;
+}
+.main2 .main2-right {
+  width: 330px;
+  height: 110px;
+  background: none;
+  float: left;
+}
+.main3 {
+  height: 176px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+  margin-top: 120px;
+}
+.main3 dl {
+  margin-top: 46px;
+  margin-left: 138px;
+  float: left;
+}
+.main3 dl dt {
+  float: left;
+}
+.main3 dl dd h2 {
+  font-size: 18px;
+  font-weight: bolder;
+}
+.main3 dl dd p {
+  padding-top: 3px;
+}
+.main4 {
+  height: 94px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+}
+.main4 .main4-left {
+  width: 148px;
+  height: 94px;
+  background: none;
+  float: left;
+}
+.main4 .main4-right {
+  width: 1062px;
+  height: 94px;
+  background: none;
+  float: left;
+}
+.main4 .main4-right ul {
+  float: left;
+  margin-top: 45px;
+  margin-left: 20px;
+}
+.main4 .main4-right ul li {
+  float: left;
+  padding: 0 18px;
+  font-size: 16px;
+}
+.main4 .main4-right ul li a {
+  color: #000000;
+}
+.main4 .main4-right .first {
+  width: 48px;
+  background-color: #f2c417;
+}
+.main4 .main4-right p {
+  float: right;
+  margin-top: 45px;
+}
+.main4 .main4-right p a {
+  color: black;
+}
+.main5 {
+  height: 273px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+}
+.main5 dl {
+  float: left;
+  margin-top: 10px;
+  margin-left: 18px;
+}
+.main5 dl dd h2 {
+  font-size: 16px;
+}
+.main5 dl dd h3 {
+  float: left;
+  font-size: 14px;
+}
+.main5 dl dd p {
+  font-size: 13px;
+  float: right;
+}
+.main5 dl dd p span {
+  color: #F2C417;
+  font-weight: bolder;
+}
+.main6 {
+  height: 94px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.main6 .main6-left {
+  width: 148px;
+  height: 94px;
+  background: none;
+  float: left;
+}
+.main6 .main6-left h2 {
+  padding-top: 35px;
+}
+.main6 .main6-right {
+  width: 1062px;
+  height: 94px;
+  background: none;
+  float: left;
+}
+.main6 .main6-right ul {
+  float: left;
+}
+.main6 .main6-right li {
+  float: left;
+  margin-top: 46px;
+  margin-left: 20px;
+  font-size: 16px;
+  padding: 0 8px;
+}
+.main6 .main6-right li a {
+  color: #000000;
+}
+.main6 .main6-right .second {
+  width: 55px;
+  height: 23px;
+  background-color: #f2c417;
+}
+.main6 .main6-right p {
+  float: right;
+  margin-top: 46px;
+}
+.main6 .main6-right p span {
+  padding-right: 3px;
+}
+.main7 {
+  height: 273px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+}
+.main7 dl {
+  float: left;
+  margin-top: 10px;
+  margin-left: 18px;
+}
+.main7 dl dd h2 {
+  font-size: 16px;
+}
+.main7 dl dd h3 {
+  float: left;
+  font-size: 14px;
+}
+.main7 dl dd p {
+  font-size: 13px;
+  float: right;
+}
+.main7 dl dd p span {
+  color: #F2C417;
+  font-weight: bolder;
+}
+.main8 {
+  height: 131px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.main8 h2 {
+  font-size: 32px;
+  text-align: center;
+  padding-top: 30px;
+}
+.main8 p {
+  text-align: center;
+}
+.main9 {
+  height: 405px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+}
+.main10 {
+  height: 131px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.main10 h2 {
+  font-size: 32px;
+  text-align: center;
+  padding-top: 30px;
+}
+.main10 p {
+  text-align: center;
+}
+.main11 {
+  height: 291px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+}
+.footer-auter {
+  width: 100%;
+  height: 409px;
+  background: #202020;
+  margin-top: 60px;
+}
+.footer-auter .footer {
+  height: 409px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+}
+.footer-auter .footer .footer-left {
+  width: 154px;
+  height: 409px;
+  background: none;
+  float: left;
+}
+.footer-auter .footer .footer-left p {
+  padding-top: 16px;
+  color: white;
+}
+.footer-auter .footer .footer-center {
+  width: 332px;
+  height: 409px;
+  background: none;
+  float: left;
+  margin-left: 377px;
+}
+.footer-auter .footer .footer-center h2 {
+  font-size: 18px;
+  padding-top: 50px;
+  padding-left: 30px;
+  color: white;
+}
+.footer-auter .footer .footer-center h3 {
+  text-align: center;
+  padding-top: 10px;
+}
+.footer-auter .footer .footer-right {
+  width: 190px;
+  height: 409px;
+  background: none;
+  float: left;
+  margin-left: 157px;
+}
+.footer-auter .footer .footer-right h2 {
+  font-size: 18px;
+  padding-top: 50px;
+  color: white;
+}
+.footer-auter .footer .footer-right p {
+  padding-top: 20px;
+  color: white;
+}
+.footer-auter .footer .footer-right h3 {
+  padding-top: 20px;
+}
+.last-auter {
+  width: 100%;
+  height: 36px;
+  background: #202020;
+}
+.last-auter .last {
+  height: 36px;
+  background: none;
+  width: 1210px;
+  margin: 0 auto;
+}
+.last-auter .last p {
+  text-align: center;
+  line-height: 36px;
+  color: #939393;
+}
